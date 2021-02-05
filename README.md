@@ -16,10 +16,13 @@ or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 =======[ COMMANDS REQUIRED FOR ENVIRONMENT SETUP ]============================
 
 npm i -g cdk8s-cli
+
 mkdir "YOUR DIRECTORY NAME"
+
 cd "YOUR DIRECTORY"
 
 npm install  cdk8s@^1.0.0-beta.6 cdk8s-plus-17@^1.0.0-beta.6 constructs@^3.2.34
+
 cdk8s init typescript-app
 
 ===============================================================================
