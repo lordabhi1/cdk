@@ -37,6 +37,7 @@ after doing all
 ==================[FINAL STEPS]===================================================
 
 cdk8s synth
+
 cdk8s deploy
 
 Do write yes when the prompt appears for deployment if you want to proceed
