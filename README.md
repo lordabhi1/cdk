@@ -11,7 +11,7 @@ Hi there! Welcome to AWS Cloud9!
 To get started, create some files, play with the terminal,
 or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
-SAMPLE CODE TO CREATE KUBE DEPLOYEMENT USING AMAZON'S CDK8s AND GENERATING YML FILE IN TYPESCRIPT CODE
+SAMPLE CODE TO CREATE KUBE DEPLOYEMENT USING AMAZON'S CDK8s IN TYPESCRIPT LANGUAGE AND GENERATING YML FILE 
 
 FOR MORE DETAILS :
 
