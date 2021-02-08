@@ -25,7 +25,7 @@ npm install  cdk8s@^1.0.0-beta.6 cdk8s-plus-17@^1.0.0-beta.6 constructs@^3.2.34
 
 cdk8s init typescript-app
 
-===============================================================================
+===========================================================
 
 
 YOU'll NOTICE A TYPESCRIPT PROJECT BEING GENERATED
@@ -34,7 +34,7 @@ Head over to main.ts to write your code .Do include necsessary imports required 
 
 after doing all
 
-==================[FINAL STEPS]===================================================
+=========[FINAL STEPS]====================================
 
 cdk8s synth
 
